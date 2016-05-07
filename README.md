@@ -3,12 +3,12 @@ Product Management: Information and Resources
 
 # Market Sizing
 ------
-## Number of people in population
-## Number of target customers in population
-## Purchase Frequency
-## Quantity Per Purchase
-## % Market Share
-## Price Per Unit
+### Number of people in population
+### Number of target customers in population
+### Purchase Frequency
+### Quantity Per Purchase
+### % Market Share
+### Price Per Unit
 
 # Product Positioning
 ------
